@@ -6,3 +6,5 @@ tenhle repozitar je pro Hulise a obsahuje:
 - hulika
 - gypsy
 - siawo
+
+## Matyáš Hulík
